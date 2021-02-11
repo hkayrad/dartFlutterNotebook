@@ -121,7 +121,7 @@ void main() {
 They both have the same functionality but bottom one is neater.
 
 ### **4. Classes**
-<br></br>
+
 **Classes for Starters**
 
 Classes are blueprints for objects. We use classes to describe these objects by giving them properties and methods. Metods are just functions.
